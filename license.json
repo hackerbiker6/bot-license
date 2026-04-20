@@ -1,13 +1,13 @@
 {
   "licenses": [
     {
-      "name": "Client- 01681240760",
+      "name": "Client- A",
       "hwid": "76b359f8f1732b88df41e8ef9d11c2ce625c13e2de663dbff29a9c407d9f7c13",
       "expiry": "2030-12-31"
     },
     {
-      "name": "Client- 017XXXXXXXX",
-      "hwid": "NEW_HWID_1",
+      "name": "Client- 01681240760",
+      "hwid": "76b359f8f1732b88df41e8ef9d11c2ce625c13e2de663dbff29a9c407d9f7c13",
       "expiry": "2027-06-30"
     },
     {

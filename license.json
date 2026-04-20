@@ -1,0 +1,9 @@
+{
+  "licenses": [
+    {
+      "name": "Client A",
+      "hwid": "PASTE_HWID_HERE",
+      "expiry": "2026-12-31"
+    }
+  ]
+}

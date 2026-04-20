@@ -4,6 +4,16 @@
       "name": "Client- 01681240760",
       "hwid": "7e5a72a1183e7f0e2a8dd107c6ea5f19bec6b7a072507678af7b2c914af6cc77",
       "expiry": "2030-12-31"
+    },
+    {
+      "name": "Client- 017XXXXXXXX",
+      "hwid": "NEW_HWID_1",
+      "expiry": "2027-06-30"
+    },
+    {
+      "name": "Office PC",
+      "hwid": "NEW_HWID_2",
+      "expiry": "2026-12-31"
     }
   ]
 }
